@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 
 <p>
-  I'm a Web Developer, who primarly builds web application with Ruby on Rails.
+  I'm a Web Developer, who primarily builds web applications with Ruby on Rails.
   
-  I love leraning new skill and use them to create cool stuff 🚀.
+  I love learning new skills 🤯 and use them to create cool stuff 🚀.
 </p>
 
 
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning JavaScript
 - 👯 Available For Hire
 - 🤔 All of my projects are available at https://github.com/igorbanjac91/igorbanjac91
-- ⚡ Fun fact: I like growing plants from seeds 🌱 
+- ⚡ Fun fact: I like growing plants from seeds,like avocados or chestnuts 🌱 🌰 🥑
 
 ### Languages and Tools:
 [<img src="https://gist.githubusercontent.com/igorbanjac91/a22d026ecc45dc2107f4a1616f808af4/raw/38f6fac5131834c9df19357d879b66108762b464/rails-logo.svg" height="40">](https://rubyonrails.org/)
