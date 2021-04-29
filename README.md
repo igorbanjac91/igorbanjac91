@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 
 <p>
-  I'm a Web Developer, who primarily builds web applications with Ruby on Rails.
+  I'm a Web Developer, who primarily builds web applications with Ruby on Rails but is falling in love with JavaScript 💓.
   
   I love learning new skills 🤯 and use them to create cool stuff 🚀.
 </p>
