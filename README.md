@@ -1,18 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Igor</h1>
+<h3 align="center">I'm a Web Developer 
+<h3 align="center">My core skills are Ruby on Rails, Html5 and CSS3 </h3>
 
-<!--
-**igorbanjac91/igorbanjac91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m available for hire
+- 🤔 All of my projects are available at https://github.com/igorbanjac91/igorbanjac91
+- ⚡ Fun fact: I like growing plants from seeds 🌱 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbanjac91&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages and Tools:
+
