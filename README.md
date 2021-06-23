@@ -10,7 +10,7 @@
 - 📄 I’m currently improving my writing skills 
 - 🌱 I’m currently learning JavaScript
 - 👯 Available For Hire
-- 🤔 All of my projects are available at https://github.com/igorbanjac91/igorbanjac91
+- 🤔 All of my projects are available at https://igorbanjac91.github.io/portfolio-website/
 - ⚡ Fun fact: I like growing plants from seeds,like avocados or chestnuts 🌱 🌰 🥑
 
 ### Languages and Tools:
