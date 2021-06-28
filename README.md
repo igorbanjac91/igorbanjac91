@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 
 <p>
-  I'm a Web Developer, who primarily builds web applications with Ruby on Rails but is falling in love with JavaScript 💓.
+  I'm a Web Developer, who primarily builds web applications with Ruby on Rails and React
   
   I love learning new skills 🤯 and use them to create cool stuff 🚀.
 </p>
@@ -10,7 +10,7 @@
 - 📄 I’m currently improving my writing skills 
 - 🌱 I’m currently learning JavaScript
 - 👯 Available For Hire
-- 🤔 All of my projects are available at https://igorbanjac91.github.io/portfolio-website/
+- 🤔 My portfolio https://igorbanjac91.github.io/portfolio-website/
 - ⚡ Fun fact: I like growing plants from seeds,like avocados or chestnuts 🌱 🌰 🥑
 
 ### Languages and Tools:
