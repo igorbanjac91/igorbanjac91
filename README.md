@@ -8,7 +8,7 @@
 
 
 - 📄 I’m currently improving my writing skills 
-- 🌱 I’m currently working an a persona project
+- 🌱 I’m currently working on a personal project
 - 👯 Available For Hire
 - 🤔 My portfolio https://igorbanjac91.github.io/portfolio-website/
 - ⚡ Fun fact: I like growing plants from seeds,like avocados or chestnuts 🌱 🌰 🥑
