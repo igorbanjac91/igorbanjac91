@@ -8,13 +8,14 @@
 
 
 - 📄 I’m currently improving my writing skills 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently working an a persona project
 - 👯 Available For Hire
 - 🤔 My portfolio https://igorbanjac91.github.io/portfolio-website/
 - ⚡ Fun fact: I like growing plants from seeds,like avocados or chestnuts 🌱 🌰 🥑
 
 ### Languages and Tools:
 [<img src="https://gist.githubusercontent.com/igorbanjac91/a22d026ecc45dc2107f4a1616f808af4/raw/38f6fac5131834c9df19357d879b66108762b464/rails-logo.svg" height="40">](https://rubyonrails.org/)
+[<img src="https://raw.githubusercontent.com/gist/igorbanjac91/fbab723a2d2061c2e350a2550199a4a1/raw/71f4e22aa02eb270cdd84cba7edc0874e04e07ee/react-logo.svg" height="40">](https://reactjs.org/)
 [<img src="https://gist.githubusercontent.com/igorbanjac91/674cdf8cdfc99ce9a36f613b55828a6b/raw/2a04f73e51436726608093dc612b383dda890380/bash.svg" height="40">](https://www.gnu.org/software/bash/)
 [<img src="https://raw.githubusercontent.com/gist/igorbanjac91/59b65194e835c860e162cd63045d6102/raw/77ecd9d0940eb5a26a038b053da3aee144bcff4f/css3.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://raw.githubusercontent.com/gist/igorbanjac91/7553c8c8b7fadd781d28df299dc42057/raw/c1ce778437418db18ff978b04f1774cc93ef7b13/html5.svg" height="40">](https://www.w3.org/html/)
